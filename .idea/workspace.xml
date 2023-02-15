@@ -6,6 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="e8013bb1-b637-4414-ac5d-87f44c0ae278" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/java-webdriver-cucumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/definitions/NataliK_StepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/NK_TestCases.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/definitions/NataliK_StepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/definitions/PredefinedStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/downloads/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/Anna_V_HomePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/NK_TestCases.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/support/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/support/TestContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/support/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webdriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
