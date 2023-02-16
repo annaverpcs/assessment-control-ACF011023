@@ -15,7 +15,7 @@ Name convention for Branch name: **FirstName_LastNameInitial_TaskJiraID**
 
 To see the difference, you can also use **git diff**
 
-5 Add ALL your changes to staging (git index) **git add .** 
+5 Add ALL your changes to staging (git index) **git add .**  OR **git add FILENAME**
 
 6 To check that you added all the changes **git status** (Updated files will be shown in green)
 

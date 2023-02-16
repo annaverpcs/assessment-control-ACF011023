@@ -1,4 +1,5 @@
-#Author: Anna Verkhovskaya
+#Author: Natalia Keegan
+ NatK_branchACF_955
   #Exercise for ASK application
 
   @askapplication
@@ -52,5 +53,7 @@
        Then I click on element with xpath "//div[@mat-dialog-actions]//span[contains(text(),'Delete')]"
       Then I wait for 3 sec
       Then element with xpath "//mat-panel-title[contains(text(),'0 Nat Quiz Title')]" should not be present
+
+
 
 
