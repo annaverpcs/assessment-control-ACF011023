@@ -1,4 +1,4 @@
-#Author: Anna Verkhovskaya
+checkput#Author: Anna Verkhovskaya
 #Exercise for ASK application
   
   @askapplication 
