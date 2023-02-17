@@ -3,6 +3,7 @@
 /node_modules/
 /package-lock.json
 /.idea/
+/.idea/workspace.xml
 /*.iml
 .DS_Store
 # Compiled class file
