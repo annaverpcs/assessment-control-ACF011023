@@ -1,19 +1,19 @@
-checkput#Author: Anna Verkhovskaya
+#Author: Anna Verkhovskaya
 #Exercise for ASK application
   
   @askapplication 
   Feature: ASK application
     
    #Login to ASK as Teacher
-    Background:
-      Given I open url "http://ask-internship.portnov.com/#/login"
-      Then I type "annapcsteacher2@gmail.com" into element with xpath "//input[@placeholder='Email *']"
-      Then I type "12345" into element with xpath "//input[@formcontrolname='password']"
-      Then I click on element with xpath "//button[@type = 'submit']"
-      Then I wait for 1 sec
-      Then I should see page title as "Assessment Control @ Portnov"
-      Then element with xpath "//footer[contains(text(),'Portnov')]" should contain text "Assessment Control @ Portnov"
-      Then element with xpath "//footer[contains(text(),'Portnov')]" should be displayed
+  #  Background:
+  #    Given I open url "http://ask-internship.portnov.com/#/login"
+  #    Then I type "annapcsteacher2@gmail.com" into element with xpath "//input[@placeholder='Email *']"
+  #    Then I type "12345" into element with xpath "//input[@formcontrolname='password']"
+  #    Then I click on element with xpath "//button[@type = 'submit']"
+   #   Then I wait for 1 sec
+   #   Then I should see page title as "Assessment Control @ Portnov"
+   #   Then element with xpath "//footer[contains(text(),'Portnov')]" should contain text "Assessment Control @ Portnov"
+   #   Then element with xpath "//footer[contains(text(),'Portnov')]" should be displayed
 
     @askapplication1
     Scenario: Create a quiz
@@ -48,8 +48,10 @@ checkput#Author: Anna Verkhovskaya
       Then AV go to 'Create New Quiz' location
       #Then I click on element with xpath "//span[contains(text(),'Create New Quiz')]"
       Then I wait for 1 sec
-      Then I type "0 Anna Quiz title" into element with xpath "//input[@formcontrolname='name']"
-      Then I click on element with xpath "//mat-icon[contains(text(),'add_circle')]"
+      Then AV type "0 Anna Quiz title" as "Quiz name"
+      #Then I type "0 Anna Quiz title" into element with xpath "//input[@formcontrolname='name']"
+      Then AV add question
+     #Then I click on element with xpath "//mat-icon[contains(text(),'add_circle')]"
       Then element with xpath "//mat-panel-title[contains(text(),'Q1: new empty question')]" should be displayed
       Then I click on element with xpath "//div[contains(text(),'Single-Choice')]"
       Then I type "Question 1 Single choice" into element with xpath "//textarea[@formcontrolname ='question']"
@@ -64,5 +66,17 @@ checkput#Author: Anna Verkhovskaya
       When I click on element with xpath "//mat-panel-title[contains(text(),'0 Anna Quiz title')]"
       Then I click on element with xpath "//mat-panel-title[contains(text(),'0 Anna Quiz title')]/../../..//span[contains(text(),'Delete')]"
       Then I click on element with xpath "//div[@mat-dialog-actions]//span[contains(text(),'Delete')]"
-      Then I wait for 2 sec
+      Then I wait for 5 sec
       Then element with xpath "//mat-panel-title[contains(text(),'0 Anna Quiz title')]" should not be present
+
+    @askapplication3
+    Scenario: User registration
+      Given AV navigate to "ASK registration"
+      Then AV input "John" as "FirstName"
+      Then AV input "Smith" as "LastName"
+      Then AV input "abc@abc.cde" as "Email"
+      Then AV input "123" as "GroupCode"
+      Then AV input "12345ABc" as "Password"
+      Then AV input "12345ABc" as "ConfirmPassword"
+      Then AV click Register Me button
+      Then I wait for 5 sec
