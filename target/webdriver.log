@@ -14,3 +14,78 @@ INFO 11:57:33:856 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using 
 INFO 11:57:33:881 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/averkhovskaya/.m2/repository/webdriver/chromedriver/mac64/110.0.5481.77/chromedriver
 INFO 12:16:31:321 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
 INFO 12:16:31:360 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/averkhovskaya/.m2/repository/webdriver/chromedriver/mac64/110.0.5481.77/chromedriver
+INFO 23:38:31:988 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:38:32:009 wdm.WebDriverManager getDriversFromXml:1077 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 23:38:32:394 wdm.Downloader downloadAndExtract:128 Downloading https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+INFO 23:38:32:716 wdm.Downloader extract:183 Extracting binary from compressed file chromedriver_win32.zip
+INFO 23:38:32:841 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:38:39:979 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:38:39:989 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:41:05:429 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:41:05:444 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:41:19:882 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:41:19:899 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:42:51:132 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:42:51:146 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:04:48:464 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:04:48:482 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:15:54:228 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:15:54:245 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:17:07:308 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:17:07:328 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:20:09:315 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:20:09:332 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:20:42:866 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:20:42:888 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:21:06:800 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:21:06:819 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:21:56:101 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:21:56:121 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:22:47:810 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:22:47:832 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:23:40:134 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:23:40:154 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:25:49:225 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:25:49:245 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:48:07:228 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:48:07:253 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:49:10:162 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:49:10:185 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:50:29:757 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:50:29:784 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:51:54:483 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:51:54:504 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:53:37:226 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:53:37:248 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:54:16:436 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:54:16:456 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:54:58:267 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:54:58:301 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:56:55:797 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:56:55:828 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:57:26:678 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:57:26:701 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 00:57:52:117 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 00:57:52:139 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 01:03:48:408 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 01:03:48:439 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 01:04:42:469 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 01:04:42:492 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 01:05:24:992 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 01:05:25:015 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 01:08:17:291 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 01:08:17:318 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 01:11:04:304 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 01:11:04:339 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:18:23:672 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:18:23:699 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:20:03:979 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:20:04:000 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:25:41:030 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:25:41:046 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:26:14:865 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:26:14:881 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:27:59:093 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:27:59:096 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+INFO 23:31:17:581 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+INFO 23:31:17:603 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\lusin\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe

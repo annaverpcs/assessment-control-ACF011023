@@ -14,7 +14,7 @@
       Then I should see page title as "Assessment Control @ Portnov"
       Then element with xpath "//footer[contains(text(),'Portnov')]" should contain text "Assessment Control @ Portnov"
       Then element with xpath "//footer[contains(text(),'Portnov')]" should be displayed
-
+    @askapplication1
     Scenario: Create a quiz
       When I click on element with xpath "//h5[contains(text(),'Quizzes')]"
       Then I wait for 1 sec
@@ -38,7 +38,7 @@
       Then I wait for 2 sec
       Then element with xpath "//mat-panel-title[contains(text(),'0 Anna Quiz title')]" should not be present
 
+      Scenario: test
+        Given I open url "http://ask-internship.portnov.com/#/login"
+        Given AnnaV navigate url "http://ask-internship.portnov.com/#/login"
 
-
-
-      Then I wait for 5 sec

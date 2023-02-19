@@ -41,3 +41,4 @@
       Scenario: test
         Given I open url "http://ask-internship.portnov.com/#/login"
         Given AnnaV navigate url "http://ask-internship.portnov.com/#/login"
+
